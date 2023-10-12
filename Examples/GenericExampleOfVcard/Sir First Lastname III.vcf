@@ -99,33 +99,18 @@ PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAwME
  Z/McDHy5OfTA/CueUOU2jLmP/Z
 
 BDAY;VALUE=DATE:19690420
-
-ADR;TYPE=HOME:;;HomeAddressStreet;HomeAddressCity;HomeAddressState;55555;Un
+ADR;TYPE=HOME:;;WorkAddressStreet;WorkAddressCity;WorkAddressState;55555;Un
  ited States
- 
 ADR;TYPE=WORK:;;WorkAddressStreet;WorkAddressCity;WorkAddressState;55555;Wo
  rkAddressCountry
- 
+ADR;TYPE=HOME:;;HomeAddressStreet;HomeAddressCity;HomeAddressState;55555;Un
+ ited States
 TEL;TYPE=CELL,VOICE:(555) 555-5555
 TEL;TYPE=HOME,VOICE:(555) 555-5555
 TEL;TYPE=WORK,VOICE:(555) 555-5555
-
 EMAIL;TYPE=HOME,PREF,INTERNET:Email@DomainName.com
 EMAIL;TYPE=WORK,INTERNET:WorkEmail@WorkDomainName.com
-
 TITLE:WorkTitle
 ORG:WorkOrganization
-
 URL:WebsiteDomainName.com
-
-X-SOCIALPROFILE;TYPE=facebook:SocialFacebook
-X-SOCIALPROFILE;TYPE=twitter:SocialTwitter
-X-SOCIALPROFILE;TYPE=linkedin:SocialLinkedIn.com
-X-SOCIALPROFILE;TYPE=instagram:SocialInstagram
-X-SOCIALPROFILE;TYPE=youtube:SocialYoutube
-X-SOCIALPROFILE;TYPE=Social:SocialURL
-
-
-NOTE;CHARSET=UTF-8:Here you can specify a note to add to your contact\. Make sure you put foward dashes \"\\\" in front of all specaial characters so it will escape their function and show up correctly\.
-
 END:VCARD
